@@ -5,6 +5,6 @@ def hello_name(name):
 
 n = 'Eric'
 
-x = hello_name(n)
+y = hello_name(n)
 
-print(x)
+print(y)
